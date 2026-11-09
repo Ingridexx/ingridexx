@@ -4,15 +4,6 @@
 - 🌱 Estou aprendendo Django, LangChain, React e Java.
 - 💬 Me pergunte sobre Python, Django, LangChain, apesar de estar em processo de aprendizado, podemos nos ajudar e obter conhecimento juntos! 😊
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-| Estatísticas | Tecnologias |
-|-------------|------------|
-| <img height="200" src="https://github-readme-stats.vercel.app/api?username=Ingridexx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> | <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingridexx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" /> |
-
-</div>
 
 
 ## 🤖 Linguagens 

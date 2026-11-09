@@ -1,7 +1,7 @@
 # Oiie, eu sou a Ingrid... 👋
 
-- 🔭 Atualmente estou estagiando na área de DWP, trabalho com python, desenvolvendo chatbots, automações e Rest API com Django.
-- 🌱 Estou aprendendo Django, LangChain, React e Java.
+- 🔭 Atualmente atuo como desenvolvedora na área de DWP, trabalho com python, desenvolvendo chatbots, automações e Rest API com Django.
+- 🌱 Constante aprendizado com Django, LangChain, React e Java.
 - 💬 Me pergunte sobre Python, Django, LangChain, apesar de estar em processo de aprendizado, podemos nos ajudar e obter conhecimento juntos! 😊
 
 
